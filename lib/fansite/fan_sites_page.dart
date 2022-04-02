@@ -9,9 +9,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_ui_sample/common/flexible_list.dart';
 import 'package:flutter_ui_sample/common/tab_menu.dart';
-import 'package:flutter_ui_sample/sns/instagram.dart';
-import 'package:flutter_ui_sample/sns/twitter.dart';
-import 'package:flutter_ui_sample/sns/youtube.dart';
+import 'package:flutter_ui_sample/fansite/sns/instagram.dart';
+import 'package:flutter_ui_sample/fansite/sns/twitter.dart';
+import 'package:flutter_ui_sample/fansite/sns/youtube.dart';
 
 class FanSitePage extends StatelessWidget {
   const FanSitePage({Key? key}) : super(key: key);

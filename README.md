@@ -4,9 +4,15 @@ Sample designs for application sign-in, credit card application, and fan site de
 I hope you will find this information useful for designing in Flutter.  
 
 I will be modifying the source code and adding designs as needed.  
-If you have a design that you would like to use as a reference, we will be ready to accept it via Twitter in the future.  
+
 
 <br />
+
+## Date Picker
+|Standard|Wide|
+|---|---|
+|![datepicker](screenshots/datepicker.gif)|![datepicker_wide](screenshots/datepicker_wide.gif)|
+
 
 ## Simple Sign in Page
 |Standard|Wide|
