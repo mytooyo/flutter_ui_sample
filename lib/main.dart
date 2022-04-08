@@ -1,11 +1,11 @@
 ///
 /// Copyright (c) 2022 mytooyo. All rights reserved.
 /// This software is released under the MIT License, see LICENSE.
-
 import 'package:flutter/material.dart';
 import 'package:flutter_ui_sample/datepicker/datepicker_page.dart';
-import 'package:flutter_ui_sample/payment/card_page.dart';
 import 'package:flutter_ui_sample/fansite/fan_sites_page.dart';
+import 'package:flutter_ui_sample/payment/card_page.dart';
+import 'package:flutter_ui_sample/pinterest/pinterest_page.dart';
 import 'package:flutter_ui_sample/signin/signin_page_1.dart';
 import 'package:flutter_ui_sample/signin/signin_page_2.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const DatePickerPage(),
+      home: const PinterestPage(),
     );
   }
 }
